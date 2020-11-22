@@ -1,2 +1,3 @@
+include ':consummerapp'
 include ':app'
 rootProject.name = "MyNotesApp"
